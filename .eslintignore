@@ -1,0 +1,4 @@
+node_modules/
+.git/
+flow-typed/
+es5/
